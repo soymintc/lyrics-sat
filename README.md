@@ -7,6 +7,7 @@ The purpose of this repo is to collect a set of lyrics that try to best conserve
 ## Structure
 - one song, multiple translations
 - translations are marked by the origin and destination languages, and how the translations have been made (e.g. by chatGPT, manually by conserving rhyme, manually by conserving meaning, etc.)
+- each lyric file should have line numbers that try the best to match the original lyric file
 
 ## Help!
 Any participation is dearly welcome! @soymintc would be initially focusing on Korean to English translations of some songs to his best interest.
