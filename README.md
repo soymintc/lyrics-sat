@@ -1,4 +1,4 @@
-# Lyrics with "nice" translations
+# Lyrics with "syllable-aware" translations
 When lyrics are translated, they often either 
 1. lose the true meaning it used to confer, or
 2. lose the rhyme or rhythm it used to have.
